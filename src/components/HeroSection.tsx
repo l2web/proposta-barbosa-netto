@@ -31,7 +31,7 @@ export const HeroSection = () => {
             <div className="flex justify-center mb-8 fade-in-scale pt-8">
               <img 
                 src="/img/logo-perfil-marketing-400-185-branco.webp"
-                alt="Perfil Marketing"
+                alt="Barbosa Netto Advogados"
                 className="w-48 h-auto"
               />
             </div>

@@ -88,7 +88,7 @@ export const AboutSection = () => {
             <div className="relative p-3 md:p-6">
               <img 
                 src="/img/escritorio-perfil.png" 
-                alt="Escritório Perfil Marketing" 
+                alt="Escritório Barbosa Netto Advogados" 
                 className="w-full rounded-2xl shadow-luxury"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-background/80 via-transparent to-transparent rounded-2xl" />
